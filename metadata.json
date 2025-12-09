@@ -1,0 +1,5 @@
+{
+  "name": "Sistem ERP Bengkel Mobil",
+  "description": "A modern, web-based mini ERP system for car workshops, featuring multi-role login, service order management, inventory, suppliers, customers, payments, and real-time reporting.",
+  "requestFramePermissions": []
+}
